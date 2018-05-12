@@ -1,0 +1,32 @@
+_repo: F-tes-et-coutumes-populaires--13-Les-f-tes-patronales-Le-r-veillon-Masques-et-travestis-Le-jo__22572
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Goffic, Charles
+    alias: Goffic, Charles Le
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '25418'
+    url: http://www.gutenberg.org/2009/agents/25418
+    wikipedia: http://fr.wikipedia.org/wiki/Charles_Le_Goffic
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2007-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22572'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Holidays -- France'
+- !lcsh 'France -- Social life and customs'
+title: "Fêtes et coutumes populaires\r\nLes fêtes patronales—Le réveillon—Masques\
+  \ et travestis—Le joli mois de Mai—Les noces en Bretagne—La fête des morts—Les feux\
+  \ de la Saint-Jean—Danses et Musiques populaires"
+url: http://www.gutenberg.org/ebooks/22572
