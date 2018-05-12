@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25418
     wikipedia: http://fr.wikipedia.org/wiki/Charles_Le_Goffic
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22572#F-tes-et-coutumes-populaires--13-Les-f-tes-patronales-Le-r-veillon-Masques-et-travestis-Le-jo_
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2007-09-11'
 gutenberg_type: Text
